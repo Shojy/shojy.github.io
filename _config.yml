@@ -15,15 +15,15 @@ permalink: /:title/
 markdown: kramdown
 highlighter: rouge
 kramdown:
-    auto_ids: true
-    footnote_nr: 1
-    entity_output: as_char
-    toc_levels: 1..6
-    enable_coderay: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
 mathjax: true
 sass:
-    sass_dir: _sass
-    style: compressed
+  sass_dir: _sass
+  style: compressed
 
 # Comments
 disqus_shortname: shojy
@@ -37,7 +37,7 @@ disqus_shortname: shojy
 #ad-client:
 #ad-slot:
 #bing-verify:
-#email:
+email: joshua@moon.uk.net
 twitter: mrshojy
 facebook: shojy
 github-url: shojy
@@ -64,27 +64,27 @@ steam: shojy
 
 # Gems
 gems:
-    - jekyll-mentions
-    - jekyll-feed
-    - jekyll-sitemap
-    - jekyll-gist
+  - jekyll-mentions
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
 
 jekyll-mentions:
-    base_url: https://github.com
+  base_url: https://github.com
 
 # Exclude list
 exclude:
-    [
-        README.md,
-        Gemfile,
-        Gemfile.lock,
-        node_modules,
-        gulpfile.js,
-        package.json,
-        _site,
-        src,
-        vendor,
-        CNAME,
-        LICENSE,
-        Rakefile,
-    ]
+  [
+    README.md,
+    Gemfile,
+    Gemfile.lock,
+    node_modules,
+    gulpfile.js,
+    package.json,
+    _site,
+    src,
+    vendor,
+    CNAME,
+    LICENSE,
+    Rakefile,
+  ]
