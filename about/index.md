@@ -1,37 +1,19 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Me
+tags: [about]
+date: 2019-09-26
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+<span style="text-align: center">A Leeds-based developer specialising in .NET and .NET Core applications for business and enterprise.</span>
 
-## Preview
+## Hobbies
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+When I'm not coding, you can often find me either sleeping, spending time with my cat, Marmalade, trying out a new recipe, or occassionally out walking or climbing somewhere.
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+Depending on how lucky you get, you might also fin me streaming games on [Twitch](https://www.twitch.tv/mrshojy), although I can be very intermittent with that.
 
-## Getting Started
+## Code
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+While primarily I work with the Microsoft stack of technologies, I am quite often seen wandering around outside of it, doing work that involves Objective-C, PHP, MySQL/MariaDB, Angular, Firebase, and recently I've been trying to dust off some ReactJS too.
